@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @datphan234
 - 👀 I’m interested in Business Analytics
 - 🌱 I’m currently learning Business Analytics and Financial Technology at Seneca College
-- 💞️ I’m looking to learn more about BA projects for Finance.
+- 💞️ I’m looking to learn more about Data Analytic projects for Finance.
 - 📫 How to reach me phanbuiquocdat@gmail.com
 
 <!---
